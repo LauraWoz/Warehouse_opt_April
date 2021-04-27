@@ -5,8 +5,8 @@ Created on Tue Feb 16 10:48:19 2021
 @author: laura.woznialis
 """
 import os
-os. getcwd()
-os.chdir('C:/Users/laura.woznialis.EFESO/Documents/App - Warehouse Picking Optimisation/Streamlit-training-warehouse-optimisation')
+#os. getcwd()
+#os.chdir('C:/Users/laura.woznialis.EFESO/Documents/App - Warehouse Picking Optimisation/Streamlit-training-warehouse-optimisation')
 
 ############################################################################
 ############################################################################
