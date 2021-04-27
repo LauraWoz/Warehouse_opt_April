@@ -2,6 +2,6 @@ numpy
 pandas
 plotly
 scikit-learn
-streamlit==0.64
+streamlit
 seaborn
 statsmodels
